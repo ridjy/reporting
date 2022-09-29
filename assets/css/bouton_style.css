@@ -1,0 +1,22 @@
+.btn {
+	border:none;
+	padding:6px 0 6px 0;
+	border-radius:75%;
+	border-bottom:7px solid #f2d61d;
+	font:bold 13px Arial;
+	color:#555;
+	background:#fff;
+	box-shadow:2px 2px 3px #999;
+	border-top:2px solid #59cd27;
+	padding: 6px 9px 8px 10px;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}

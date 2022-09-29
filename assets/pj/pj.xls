@@ -1,0 +1,309 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:Name>"Statistique_globale.xls"</x:Name><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>Reporting ZEOP</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table>
+                                <tbody><tr style="height:110px;">
+                                    <td colspan="2">2017-11-29</td>
+                                    <td colspan="8"><img src="http://10.0.1.35:8080/ReportZeop/assets/images/Oceancall Group.png"></td>
+                                    <td colspan="8"><img src="http://10.0.1.35:8080/ReportZeop/assets/images/ZEOP-LOGO.jpg"></td>
+                                </tr>  
+                                <tr style="background-color:#006699; color:#FFFFFF">
+                                   <td>Agents</td>
+                                   <td>Total Appel emis</td>
+                                   <td>Total Appel recus</td>
+                                   <td>Date d'engagement</td>
+                                   <td>%</td>
+                                   <td>Deja Engage</td>
+                                   <td>%</td>
+                                   <td>Refus Argu</td>
+                                   <td>%</td>
+                                   <td>Refus Intro</td>
+                                   <td>%</td>
+                                   <td>Repondeur</td>
+                                   <td>%</td>
+                                   <td>Relance</td>
+                                   <td>%</td>
+                                   <td>Vente</td>
+                                   <td>%</td>
+                                   <td>Temps de com / vente</td>
+                                   <td>Temps de com moyen global</td>
+                                </tr>  
+                                    
+                                    
+                                         <!--foreach agent-->
+      <tr class="primary">
+        <td style="background-color:#006699; color:#FFFFFF">AICHA-TCOPTI2</td>
+        <td>116</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0%</td>
+        <td>14</td>
+        <td>12.07%</td>
+        <td>7</td>
+        <td>6.03%</td>
+        <td>13</td>
+        <td>11.21%</td>
+        <td>70</td>
+        <td>60.34%</td>
+        <td>12</td>
+        <td>10.34%</td>
+        <td>0</td>
+        <td>0%</td>
+        <td></td>
+        <td>00:00:58</td>
+      </tr>
+    <!--endforeach-->  
+    <!--foreach agent-->
+      <tr class="primary">
+        <td style="background-color:#006699; color:#FFFFFF">DIANA-TCOPTI7</td>
+        <td>166</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0.6%</td>
+        <td>6</td>
+        <td>3.61%</td>
+        <td>4</td>
+        <td>2.41%</td>
+        <td>19</td>
+        <td>11.45%</td>
+        <td>117</td>
+        <td>70.48%</td>
+        <td>11</td>
+        <td>6.63%</td>
+        <td>0</td>
+        <td>0%</td>
+        <td></td>
+        <td>00:00:41</td>
+      </tr>
+    <!--endforeach-->  
+    <!--foreach agent-->
+      <tr class="primary">
+        <td style="background-color:#006699; color:#FFFFFF">HAINGO-TCOPTI10</td>
+        <td>136</td>
+        <td>0</td>
+        <td>5</td>
+        <td>3.68%</td>
+        <td>4</td>
+        <td>2.94%</td>
+        <td>13</td>
+        <td>9.56%</td>
+        <td>29</td>
+        <td>21.32%</td>
+        <td>70</td>
+        <td>51.47%</td>
+        <td>3</td>
+        <td>2.21%</td>
+        <td>3</td>
+        <td>2.21%</td>
+        <td>00:00:36</td>
+        <td>00:00:57</td>
+      </tr>
+    <!--endforeach-->  
+    <!--foreach agent-->
+      <tr class="primary">
+        <td style="background-color:#006699; color:#FFFFFF">JENNY-TCOPTI6</td>
+        <td>115</td>
+        <td>0</td>
+        <td>7</td>
+        <td>6.09%</td>
+        <td>3</td>
+        <td>2.61%</td>
+        <td>5</td>
+        <td>4.35%</td>
+        <td>8</td>
+        <td>6.96%</td>
+        <td>49</td>
+        <td>42.61%</td>
+        <td>18</td>
+        <td>15.65%</td>
+        <td>0</td>
+        <td>0%</td>
+        <td></td>
+        <td>00:00:59</td>
+      </tr>
+    <!--endforeach-->  
+    <!--foreach agent-->
+      <tr class="primary">
+        <td style="background-color:#006699; color:#FFFFFF">Jonathan-Jonathan</td>
+        <td>4</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0%</td>
+        <td>0</td>
+        <td>0%</td>
+        <td>0</td>
+        <td>0%</td>
+        <td>0</td>
+        <td>0%</td>
+        <td>4</td>
+        <td>100%</td>
+        <td>0</td>
+        <td>0%</td>
+        <td>0</td>
+        <td>0%</td>
+        <td></td>
+        <td>00:00:05</td>
+      </tr>
+    <!--endforeach-->  
+    <!--foreach agent-->
+      <tr class="primary">
+        <td style="background-color:#006699; color:#FFFFFF">LALAO-TCOPTI3</td>
+        <td>93</td>
+        <td>0</td>
+        <td>2</td>
+        <td>2.15%</td>
+        <td>3</td>
+        <td>3.23%</td>
+        <td>1</td>
+        <td>1.08%</td>
+        <td>9</td>
+        <td>9.68%</td>
+        <td>48</td>
+        <td>51.61%</td>
+        <td>25</td>
+        <td>26.88%</td>
+        <td>0</td>
+        <td>0%</td>
+        <td></td>
+        <td>00:00:46</td>
+      </tr>
+    <!--endforeach-->  
+    <!--foreach agent-->
+      <tr class="primary">
+        <td style="background-color:#006699; color:#FFFFFF">MENTI-TCOPTI5</td>
+        <td>175</td>
+        <td>0</td>
+        <td>13</td>
+        <td>7.43%</td>
+        <td>17</td>
+        <td>9.71%</td>
+        <td>0</td>
+        <td>0%</td>
+        <td>8</td>
+        <td>4.57%</td>
+        <td>99</td>
+        <td>56.57%</td>
+        <td>1</td>
+        <td>0.57%</td>
+        <td>0</td>
+        <td>0%</td>
+        <td></td>
+        <td>00:01:07</td>
+      </tr>
+    <!--endforeach-->  
+    <!--foreach agent-->
+      <tr class="primary">
+        <td style="background-color:#006699; color:#FFFFFF">Nantenaina-Nantenaina</td>
+        <td>3</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0%</td>
+        <td>0</td>
+        <td>0%</td>
+        <td>0</td>
+        <td>0%</td>
+        <td>0</td>
+        <td>0%</td>
+        <td>2</td>
+        <td>66.67%</td>
+        <td>1</td>
+        <td>33.33%</td>
+        <td>0</td>
+        <td>0%</td>
+        <td></td>
+        <td>00:00:00</td>
+      </tr>
+    <!--endforeach-->  
+    <!--foreach agent-->
+      <tr class="primary">
+        <td style="background-color:#006699; color:#FFFFFF">ONJA-TCOPTI8</td>
+        <td>105</td>
+        <td>0</td>
+        <td>3</td>
+        <td>2.86%</td>
+        <td>3</td>
+        <td>2.86%</td>
+        <td>1</td>
+        <td>0.95%</td>
+        <td>9</td>
+        <td>8.57%</td>
+        <td>71</td>
+        <td>67.62%</td>
+        <td>13</td>
+        <td>12.38%</td>
+        <td>0</td>
+        <td>0%</td>
+        <td></td>
+        <td>00:00:52</td>
+      </tr>
+    <!--endforeach-->  
+    <!--foreach agent-->
+      <tr class="primary">
+        <td style="background-color:#006699; color:#FFFFFF">TOJO-TCOPTI9</td>
+        <td>121</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0%</td>
+        <td>16</td>
+        <td>13.22%</td>
+        <td>3</td>
+        <td>2.48%</td>
+        <td>22</td>
+        <td>18.18%</td>
+        <td>69</td>
+        <td>57.02%</td>
+        <td>4</td>
+        <td>3.31%</td>
+        <td>0</td>
+        <td>0%</td>
+        <td></td>
+        <td>00:00:41</td>
+      </tr>
+    <!--endforeach-->  
+  <tr class="primary">
+                                        <td style="background-color:#006699; color:#FFFFFF">TOTAL</td>
+                                        <td>1034</td>
+                                        <td>0</td>
+                                        <td>31</td>
+                                        <td> - </td>
+                                        <td>66</td>
+                                        <td> - </td>
+                                        <td>34</td>
+                                        <td> - </td>
+                                        <td>117</td>
+                                        <td> - </td>
+                                        <td>599</td>
+                                        <td> - </td>
+                                        <td>88</td>
+                                        <td> - </td>
+                                        <td>3</td>
+                                        <td> - </td>
+                                        <td> - </td>
+                                        <td> - </td>
+                                      </tr>
+                                    
+                                    <tr>
+                                        <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>                                    </tr><tr>
+                                    </tr><tr>
+                                        <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>                                    </tr><tr>  
+                                    </tr><tr>
+                                        <td colspan="6"><p>Date d'engagement : La personne est engage pour plus de 4 mois encore.</p></td>
+                                        <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>                                    </tr><tr>
+                                    </tr><tr>
+                                        <td colspan="6"><p></p></td>
+                                        <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>                                    </tr><tr>  
+                                    </tr><tr>
+                                        <td colspan="6"><p>Deja engage : Client Zeop</p></td>
+                                        <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>                                    </tr><tr> 
+                                    </tr><tr>
+                                        <td colspan="6"><p></p></td>
+                                        <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>                                    </tr><tr>
+                                    </tr><tr>
+                                        <td colspan="6"><p>Refus Argu : Refus apres avoir presente l'offre</p></td>
+                                        <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>                                    </tr><tr> 
+                                    </tr><tr>
+                                        <td colspan="6"><p></p></td>
+                                        <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>                                    </tr><tr>
+                                    </tr><tr>
+                                        <td colspan="6"><p>Refus intro : Le prospect raccroche pendant l'introduction
+</p></td>
+                                        <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>                                    </tr><tr>    
+                                    
+                            </tr></tbody></table></body></html>

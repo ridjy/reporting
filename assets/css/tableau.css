@@ -1,0 +1,19 @@
+ 
+
+
+.datagrid_globale table thead th {background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #996D14), color-stop(1, #7F580B) );background:-moz-linear-gradient( center top, #996D14 5%, #7F580B 100% );filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#996D14', endColorstr='#7F580B');background-color:#996D14; color:#FFFFFF; font-size: 11px; font-weight: bold; border-left: 0px solid #0070A8; } 
+.datagrid_globale table tfoot td { border-top: 1px solid #998542;background-color: #F5A9A9;} 
+
+div.dhtmlx_window_active, 
+div.dhx_modal_cover_dv { position: fixed !important; }
+
+/* FIN STYLE TABLE STATISTIQUE GLOBALE */
+
+/* DEBUT STYLE TABLE STATISTIQUE AGENT */
+
+.datagrid_agent table thead th {background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #006699), color-stop(1, #00557F) );background:-moz-linear-gradient( center top, #006699 5%, #00557F 100% );filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#006699', endColorstr='#00557F');background-color:#006699; color:#FFFFFF; font-size: 11px; font-weight: bold; border-left: 1px solid #0070A8; } 
+.datagrid_agent table tfoot td { border-top: 1px solid #998542;background-color: #F5A9A9;} 
+div.dhtmlx_window_active, 
+div.dhx_modal_cover_dv { position: fixed !important; }
+
+/* FIN STYLE TABLE STATISTIQUE AGENT */
